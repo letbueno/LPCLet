@@ -1,4 +1,4 @@
-#Blog
+
 
 Essa aplicação foi desenvolvida para a entrega de um trabalho na disciplina Linguagem de Programação Comercial ministrada pelo professor Fábio. 
 
